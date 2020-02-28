@@ -1,8 +1,6 @@
+const axios = require("axios");
+
 function generateMarkdown(data) {
-  return `
-# ${data.title}
-
-`;
+  return ;
 }
-
 module.exports = generateMarkdown;
