@@ -65,7 +65,7 @@ inquirer
 
 
                   `;
-                  fs.writeFile("README.pdf", template, err => {
+                  fs.writeFile("README.md", template, err => {
                       if (err){
                           throw err
                         }
