@@ -15,27 +15,29 @@ function generateMarkdown(response) {
   
   # Description 
 
-  # ${response.purpose}
+  ${response.purpose}
 
   Table of Contents |
   ----------------- |
   Installation |
   Usage |
-  Licensing |
   Contribution |
+  Licensing |
   
 
   # Installation 
   ${response.installation}
 
+  # Usage 
+  ${response.usage}
+
+  # Contribution 
+  ${response.contribution}
+
   # License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-  # Usage 
-  ${response.usage}
   
-  # Contribution 
-  ${response.contribution}
 
  
   `

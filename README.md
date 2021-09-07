@@ -19,14 +19,16 @@
   # Installation 
   npm i
 
-  # License 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
   # Usage 
   As a user, I spend most of my time construcing projects.  When finishing an application, I want a convenient means of generating a description
   
   # Contribution 
   Oseghale, Ghalileo
+
+  # License 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+  
 
  
   
