@@ -6,7 +6,7 @@
   
   # Description 
 
-  # An application which allows users to efficiently generate a mardown
+  # An application which allows users to efficiently generate a project markdown
 
   Table of Contents |
   ----------------- |
