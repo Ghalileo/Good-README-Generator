@@ -25,12 +25,16 @@ inquirer
                     Message: "How to install: ",
                     name: "installation"
                 },
+                {
+                    message: "How to use: ",
+                    name: "usage"
+                },
                 
                 
             
                 {
                     message: "User Story: ",
-                    name: "usage"
+                    name: "userstory"
                 },
                 {
                     message: "List all Contributors: ",

@@ -21,6 +21,7 @@ function generateMarkdown(response) {
   ----------------- |
   Installation |
   Usage |
+  User Story |
   Contribution |
   Licensing |
   
@@ -30,6 +31,9 @@ function generateMarkdown(response) {
 
   # Usage 
   ${response.usage}
+
+  # User Story
+  ${response.userstory}
 
   # Contribution 
   ${response.contribution}
